@@ -1,7 +1,7 @@
 # Google Analytics Data (GA4) API Pull to SQLite
 An easy way to breakdown GA-4 API Data and to store in a SQLite database.
 
-1. Enable the Google Analytics Data API <a href="[url](https://developers.google.com/analytics/devguides/reporting/data/v1/quickstart-client-libraries)">here.</a>
+1. Enable the Google Analytics Data API <a href="(https://developers.google.com/analytics/devguides/reporting/data/v1/quickstart-client-libraries)">here.</a>
 .
 2. Install the dependencies (see below) <a href="Test_02.html#someAnchor">Jump to someAnchor on Test_02.html</a>
 3. With the downloaded JSON file, place into a folder where you'll be doing you're testing
