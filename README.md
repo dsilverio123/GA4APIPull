@@ -26,4 +26,6 @@ Future stuff to add:
 
 pip install pandas
 
-pip install git+https://github.com/DataSolveProblems/jj_data_connector.git ``` 
+pip install git+https://github.com/DataSolveProblems/jj_data_connector.git
+
+```
