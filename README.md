@@ -2,7 +2,7 @@
 An easy way to breakdown GA-4 API Data and to store in a SQLite database.
 
 1. Enable the Google Analytics Data API  <a href="https://developers.google.com/analytics/devguides/reporting/data/v1/quickstart-client-libraries">here!</a> 
-2. Install the dependencies (see below) <a href="#anchor-name">Jump to the part of the page with the “anchor-name” id </a>
+2. Install the dependencies  <a href="#anchor-name">(see below)” id </a>
 3. With the downloaded JSON file, place into a folder where you'll be doing you're testing
 4. Look into JSON file and look for email like: "quickstart@PROJECT-ID.iam.gserviceaccount.com", share it with your analytics property giving it admin access
 5. With the XXX file, place your specific property view and your credentials file name into the specific places
