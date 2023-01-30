@@ -3,8 +3,11 @@ import os
 import pandas as pd
 from jj_data_connector.ga4 import GA4Report, Metrics, Dimensions
 
+#Downloaded from GA API, link here: 
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'credentials.json'
-property_id = '330261781'
+
+#Look on GA and see your property ID
+property_id = 'YOUR-GA-4-ID'
 
 # creating GA4Report object instance
 ga4 = GA4Report(property_id)
@@ -39,7 +42,6 @@ df.to_csv('demo1.csv', index=False)
 df.to_excel('demo1.xlsx', index=False)
 
 # dataframe to SQL Server
-
 
 conn = sqlite3.connect(r"C:\Users\Daniel\Desktop\GA$ API\datanase.db") 
 
