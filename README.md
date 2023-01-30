@@ -9,11 +9,11 @@ An easy way to breakdown GA-4 API Data and to store in a SQLite database.
 6. Create a blank SQLite database and name it "Analytics", save
 7. Run the program and the results will now be in the SQLLITE database
 
-If you'd like to edit with Power Bi:
+*If you'd like to edit with Power Bi:
 
 Reference this: https://apps.provingground.io/docs/tracer-v1-0-documentation/tracer-power-bi-workflow/how-to-use-sqlite-as-a-power-bi-data-source/
 
-If you'd like to add more more metrics/dimensions, refer to this: 
+*If you'd like to add more more metrics/dimensions, refer to this: 
 
 Reference this: https://developers.google.com/analytics/devguides/reporting/data/v1/api-schema
 
