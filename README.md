@@ -6,7 +6,7 @@ An easy way to breakdown GA-4 API Data and to store in a SQLite database.
 3. With the downloaded JSON file, place into a folder where you'll be doing you're testing
 4. Look into <a href="https://github.com/dsilverio123/Google-Analytics-Data-GA4-API-Pull-to-SQLite/blob/main/credentials.json">credintials.json</a> file and look for email like: "quickstart@PROJECT-ID.iam.gserviceaccount.com", share it with your analytics property giving it admin access
 5. With the  <a href="https://github.com/dsilverio123/Google-Analytics-Data-GA4-API-Pull-to-SQLite/blob/main/QuickStart.py">QuickStart.py</a> file, place your specific property view and your credentials file name into the specific places
-6. Create a blank SQLite database
+6. Create a blank SQLite database and name it "Analytics", save
 7. Run the program and the results will now be in the SQLLITE database
 
 If you'd like to edit with Power Bi:
