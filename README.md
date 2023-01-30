@@ -13,8 +13,10 @@ If you'd like to edit with Power Bi:
 
 Reference this: https://apps.provingground.io/docs/tracer-v1-0-documentation/tracer-power-bi-workflow/how-to-use-sqlite-as-a-power-bi-data-source/
 
+If you'd like to add more more metrics/dimensions, refer to this: 
+
 <a id="anchor-name"><strong>Dependencies:</strong></a>
 
-Stuff to note:
+Future stuff to add:
 
-If you'd like to add extra metrics and diminsions refer to................
+-DAG Airflow Component w/ Email Notification
