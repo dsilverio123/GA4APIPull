@@ -1,4 +1,4 @@
-# GA4 API Pull
+# Google Analytics Data (GA4) API Pull to SQLite
 An easy way to breakdown GA-4 API Data and to store in a SQLite database.
 
 1. Enable the Google Analytics Data API here.
