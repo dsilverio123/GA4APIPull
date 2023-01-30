@@ -25,8 +25,8 @@ Reference this: https://developers.google.com/analytics/devguides/reporting/data
 
 ``` 
 
+pip install git+https://github.com/googleapis/google-api-python-client
 pip install pandas
-
 pip install git+https://github.com/DataSolveProblems/jj_data_connector.git
 
 ```
