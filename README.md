@@ -10,20 +10,21 @@ In this repo I want to give marketers, organizations, and businesses easy access
 
 <strong>Instructions:</strong>
 
-1. Enable the Google Analytics Data API  <a href="https://developers.google.com/analytics/devguides/reporting/data/v1/quickstart-client-libraries">here!</a> 
-2. Install the dependencies <a href="#anchor-name">(see below)</a>
-3. With the downloaded JSON file, place into a folder where you'll be doing you're testing
-4. Look into <a href="https://github.com/dsilverio123/Google-Analytics-Data-GA4-API-Pull-to-SQLite/blob/main/credentials.json">credentials.json</a> file and look for email like: "quickstart@PROJECT-ID.iam.gserviceaccount.com", share it with your analytics property giving it admin access
-5. With the  <a href="https://github.com/dsilverio123/Google-Analytics-Data-GA4-API-Pull-to-SQLite/blob/main/QuickStart.py">QuickStart.py</a> file, place your specific property view (your GA4 view ID) and your credentials file name into the specific place.
-6. Create a blank SQLite database and name it "Analytics", save
-7. Update the <a href="https://github.com/dsilverio123/Google-Analytics-Data-GA4-API-Pull-to-SQLite/blob/main/QuickStart.py">QuickStart.py</a> file to also have your directory location of the database you created
-8. Run the program and the results will now be in the SQLITE database, the excel spreadsheet, and the csv
+1. Install the dependencies <a href="#anchor-name">(see below)</a>
+2. Enable the Google Analytics Data API  <a href="https://developers.google.com/analytics/devguides/reporting/data/v1/quickstart-client-libraries">here!</a>
+3. Rename it to "credentials.json," it will be something along the lines of "1234141.json" 
+4. With the downloaded JSON file, place into a folder where you'll be doing you're testing
+5. Look inside <a href="https://github.com/dsilverio123/Google-Analytics-Data-GA4-API-Pull-to-SQLite/blob/main/credentials.json">credentials.json</a> file with notepad and look for email like: "quickstart@PROJECT-ID.iam.gserviceaccount.com", share it with your analytics property giving it admin access
+6. With the  <a href="https://github.com/dsilverio123/Google-Analytics-Data-GA4-API-Pull-to-SQLite/blob/main/QuickStart.py">QuickStart.py</a> file, place your specific property view (your GA4 view ID) and your credentials file name into the specific place.
+7. Create a blank SQLite database and name it to you're likeing and save.
+8. Update the <a href="https://github.com/dsilverio123/Google-Analytics-Data-GA4-API-Pull-to-SQLite/blob/main/QuickStart.py">QuickStart.py</a> file to also have your directory location of the database you created.
+9. Run the program and the results will now be in the SQLITE database, the excel spreadsheet, and the csv.
 
 *If you'd like to view the data with Power Bi:*
 
 Reference this: https://apps.provingground.io/docs/tracer-v1-0-documentation/tracer-power-bi-workflow/how-to-use-sqlite-as-a-power-bi-data-source/
 
-*If you'd like to add more more metrics/dimensions, refer to this:*
+*If you'd like to add more more metrics/dimensions:*
 
 Reference this: https://developers.google.com/analytics/devguides/reporting/data/v1/api-schema
 
