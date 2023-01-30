@@ -1,9 +1,13 @@
 # Google Analytics Data (GA4) API Pull to SQLite
 
+<strong>Goal:</strong>
 
 In this repo I want to give marketers, organizations, and businesses easy access to their GA-4 API data and give them the ability to connecting it to a database as well as creating CSV and Excel files. 
 
 ![alt text](https://github.com/dsilverio123/Google-Analytics-Data-GA4-API-Pull-to-SQLite/blob/main/Add%20a%20heading%20(640%20%C3%97%20320%20px).png)
+
+
+<strong>Instructions:</strong>
 
 1. Enable the Google Analytics Data API  <a href="https://developers.google.com/analytics/devguides/reporting/data/v1/quickstart-client-libraries">here!</a> 
 2. Install the dependencies <a href="#anchor-name">(see below)</a>
