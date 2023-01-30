@@ -28,6 +28,7 @@ Reference this: https://developers.google.com/analytics/devguides/reporting/data
 <strong>Future stuff to add:</strong>
 
 - DAG Airflow Component w/ Email Notification
+- Connectors to other databases (SQL Server, PostGreSQL, MySQL)
 
 <a id="anchor-name"><strong>Dependencies:</strong></a>
 
