@@ -16,7 +16,9 @@ Reference this: https://apps.provingground.io/docs/tracer-v1-0-documentation/tra
 If you'd like to add more more metrics/dimensions, refer to this: 
 
 <a id="anchor-name"><strong>Dependencies:</strong></a>
+
 pip install pandas
+
 pip install git+https://github.com/DataSolveProblems/jj_data_connector.git
 
 Future stuff to add:
