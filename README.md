@@ -15,10 +15,11 @@ Reference this: https://apps.provingground.io/docs/tracer-v1-0-documentation/tra
 
 If you'd like to add more more metrics/dimensions, refer to this: 
 
-Future stuff to add:
+Reference this: https://developers.google.com/analytics/devguides/reporting/data/v1/api-schema
+
+<strong>Future stuff to add:</strong>
 
 - DAG Airflow Component w/ Email Notification
-
 
 <a id="anchor-name"><strong>Dependencies:</strong></a>
 
